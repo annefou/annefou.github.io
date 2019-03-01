@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anne Fouilloux / Research Engineer"
+title                    : "Anne Fouilloux / Research Software Engineer"
 title_separator          : "-"
 name                     : &name "Anne Fouilloux"
 description              : &description "personal description"
