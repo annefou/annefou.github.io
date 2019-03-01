@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anne Fouilloux / Research Software Engineer"
+title                    : "Anne Fouilloux / Research Engineer"
 title_separator          : "-"
 name                     : &name "Anne Fouilloux"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter AnneFouilloux
 facebook:
   username               :
   app_id                 :
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Anne Fouilloux"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Research Software Engineer Meteorology and Oceanography"
+  location         : "Oslo, Norway"
+  employer         : "University of Oslo"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=anne+fouilloux"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Anne_Fouilloux"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,19 +96,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "annefou"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/annefouilloux/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AnneFouilloux"
   vine             :
   weibo            :
   xing             :
@@ -144,7 +144,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - _posts
 keep_files:
   - .git
   - .svn
