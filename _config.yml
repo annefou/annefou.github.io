@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Anne Fouilloux"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -144,6 +144,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - _posts
 keep_files:
   - .git
   - .svn
