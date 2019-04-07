@@ -20,7 +20,7 @@ Work experience
 * 2013-present: Research Software Engineer
   * Programming, visualizing and managing large data sets
   * Supporting researchers' and students' use of supercomputing resources
-  * Compiling, optimizing and installing models and applications
+  * Optimizing large numerical  models and applications
 
 * 2005-2013: Senior Analyst
   * Responsible of the Observational DataBase (ODB) software, a parallel database used at ECMWF, UK Metoffice, Australian Bureau of Meteorology, Meteo-France, HIRLAM (HIgh Resolution Limited Area Model) and ALADIN communities (more than 16 countries).
@@ -46,10 +46,10 @@ Work experience
 Skills
 ======
 * Programming
+  * Python
   * Fortran
   * C++
   * C
-  * Python
   * R
 
 * Data analysis
@@ -57,6 +57,8 @@ Skills
   * Deep-learning
 
 * Numerical analysis
+
+* High-Performance Computing
 
 Publications
 ======
@@ -66,14 +68,21 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [GEO4060: Fortran 2003](https://www.uio.no/studier/emner/matnat/geofag/GEO4060/index.html): [course material](http://annefou.github.io/Fortran/)
+* [GEO4962: The General Circulation of the Atmosphere](https://www.uio.no/studier/emner/matnat/geofag/GEO4962/index.html): [material for the practicals](https://nordicesmhub.github.io/GEO4962/)
+* [GEO4990/9990: The Earth System](https://www.uio.no/studier/emner/matnat/geofag/GEO4990/): [Course material](https://nordicesmhub.github.io/NEGI-Andoya-2018/)
+* [DEEP Norwegian Research School for Dynamics and Evolution of Earth and Planets](https://nordicesmhub.github.io/deep_python/)
   
+Training and Certification
+======
+* [FAIR data stewardship: Supporting FAIR data interoperability](https://indico.neic.no/event/56)
+* [Open Leadership Training Series: Best Practices Working Open](https://mozilla.github.io/open-leadership-training-series/)
+
 Service and leadership
 ======
-* The Carpentries Foundation
+* [The Carpentries Foundation](https://carpentries.org/)
   * Training instructor
   * Software and Data Carpentry Instructor
   * Maintainer for Software Carpentry Lesson "Programming with Python"
+* [StudyGroup@UiO](https://uio-carpentry.github.io/studyGroup/)
 * [Nordic Research Software Engineer Group](http://nordic-rse.org/)
