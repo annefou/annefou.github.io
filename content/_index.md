@@ -23,7 +23,7 @@ title: "About"
 
 - 🔭 I'm an active member of the [Pangeo](https://pangeo.io) community that aims at promoting open, reproducible, and scalable science.
 
-- 💬 I am leading the [Galaxy Climate Science Workbench](https://climate.usegalaxy.eu/), the [Nordic Earth System Modelling Hub](https://github.com/NordicESMhub/).
+- 💬 I am leading the [Galaxy Climate Science Workbench](https://climate.usegalaxy.eu/) and the [Nordic Earth System Modelling Hub](https://github.com/NordicESMhub/).
 
 - 😄 Pronouns: She/her/hers
 
