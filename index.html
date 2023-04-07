@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
+  <title>Anne Fouilloux</title>
+  
+<!-- CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/saira-extra-condensed@4.5.0/index.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/open-sans@4.5.0/index.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+<link rel="stylesheet" href="https://annefou.github.io/main.css">
+
+  
+<!-- JS -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+
+
+<script src="https://annefou.github.io/elasticlunr.min.js" defer></script>
+
+<script src="https://annefou.github.io/search_index.en.js" defer></script>
+
+
+
+
+  
+  
+<!-- RSS -->
+
+<link rel="alternate" type="application/atom+xml" title="RSS" href="https://annefou.github.io/atom.xml">
+
+
+  
+
+  
+  
+</head>
+
+<body>
+  <aside id="sidebar" class="menu is-hidden-touch">
+    
+
+<div style="display:block;margin:auto auto 0;padding:.5rem">
+    <figure class="image">
+        <img id="avatar" class="is-rounded" src="https://annefou.github.io/media/avatar.png">
+    </figure>
+</div>
+
+
+    
+<ul id="menu" class="menu-list">
+    
+
+<li data-menuanchor="about"><a href="https://annefou.github.io/#anchor_about">ABOUT</a></li>   
+
+ 
+<li data-menuanchor="skills"><a href="https://annefou.github.io/#anchor_skills">SKILLS</a></li>
+
+
+<li data-menuanchor="projects"><a href="https://annefou.github.io/#anchor_projects">PROJECTS</a></li>
+
+
+
+ 
+<li data-menuanchor="experience"><a href="https://annefou.github.io/#anchor_experience">EXPERIENCE</a></li>
+
+ 
+<li data-menuanchor="education"><a href="https://annefou.github.io/#anchor_education">EDUCATION</a></li>
+
+
+</ul>
+
+  </aside>
+  
+<div class="modal" id="copyTarget">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <section class="modal-card-body">
+      <textarea class="textarea" id="bibtex-content" placeholder="e.g. Hello world"  readonly></textarea>
+    </section>
+    <footer class="modal-card-foot">
+      <button class="button" id="copyButton">Copy to clipboard</button>
+    </footer>
+  </div>
+</div>
+
+  <div id="content">
+    <!-- Content -->
+    
+<div id="fullpage">
+  
+  <div class="section hero is-fullheight page" id="about">
+    
+
+<div class="is-flex is-flex-direction-column" style="height: 100%;">
+  <div class="flex: 1;">
+    <h1>Anne <span class="text-primary">Fouilloux</span></h1>
+    <h2 class="subtitle">
+      Oslo, Norway ·  <a href="mailto:annef-at-simula.no">annef-at-simula.no</a>
+    </h2>
+  </div>
+  <div class="is-flex is-flex-direction-column is-justify-content-center" style="flex: 1; overflow: auto;">
+    <div class="content" style="overflow: auto; padding-top: 1.5rem;">
+      <p><a
+  id="cy-effective-orcid-url"
+  class="underline"
+  href="https://orcid.org/0000-0002-1784-2920"
+  target="orcid.widget"
+  rel="me noopener noreferrer"
+  style="vertical-align: top">
+<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+       style="width: 1em; margin-inline-start: 0.5em"
+       alt="ORCID iD icon"
+  />
+https://orcid.org/0000-0002-1784-2920
+</a></p>
+<h3 id="hi-there-wave-i-am-a-senior-research-engineer-at-simula-research-laboratory">Hi there 👋 I am a Senior Research Engineer at <a href="https://www.simula.no">Simula Research Laboratory</a>.</h3>
+<ul>
+<li>
+<p>👯 I’m looking to collaborate on Open Science, <a href="https://www.researchobject.org">Research Objects</a> and <a href="https://fairdo.org">FAIR Digital Objects</a>.</p>
+</li>
+<li>
+<p>🔭 I'm an active member of the <a href="https://pangeo.io">Pangeo</a> community that aims at promoting open, reproducible, and scalable science.</p>
+</li>
+<li>
+<p>💬 I am leading the <a href="https://climate.usegalaxy.eu/">Galaxy Climate Science Workbench</a>, the <a href="https://github.com/NordicESMhub/">Nordic Earth System Modelling Hub</a>.</p>
+</li>
+<li>
+<p>😄 Pronouns: She/her/hers</p>
+</li>
+</ul>
+<p><a href="https://github.com/annefou"><img src="https://github-readme-stats.vercel.app/api?username=annefou&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;theme=default" alt="Stat" /></a>
+<a href="https://github.com/annefou"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annefou&amp;layout=compact&amp;hide=HTML,PostScript&amp;theme=default_repocard" alt="Top-Langs" /></a></p>
+
+    </div>
+    <div class="is-hidden-touch">
+      <h3>Socialization</h3>
+      
+      
+      <a href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;annefouilloux&#x2F;" style="font-size: 1.75rem;" data-toggle="tooltip" title="Linkedin"
+        data-offset="0,10" rel="me">
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+        
+      <a href="https:&#x2F;&#x2F;twitter.com&#x2F;AnneFouilloux?ref_src=twsrc%5Etfw" style="font-size: 1.75rem;" data-toggle="tooltip" title="Twitter"
+        data-offset="0,10" rel="me">
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+        
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;annefou" style="font-size: 1.75rem;" data-toggle="tooltip" title="GitHub"
+        data-offset="0,10" rel="me">
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+        
+      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;annefou" style="font-size: 1.75rem;" data-toggle="tooltip" title="Gitlab"
+        data-offset="0,10" rel="me">
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fab fa-gitlab fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+        
+      <a href="https:&#x2F;&#x2F;hub.docker.com&#x2F;u&#x2F;nordicesmhub" style="font-size: 1.75rem;" data-toggle="tooltip" title="Docker"
+        data-offset="0,10" rel="me">
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fab fa-docker fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+        
+    </div>
+  </div>
+</div>
+
+  </div>
+  
+
+  
+  <div class="section hero is-fullheight page" id="skills">
+    
+
+<div class="is-flex is-flex-direction-column is-justify-content-center" style="height: 100%;">
+  <h2>skills</h2>
+  <div style="overflow: auto;">
+    
+    <div style="padding-bottom: 1rem;">
+      <h3 style="color: #868e96;">Languages, Operating Systems &amp; Tools</h3>
+      <div>
+        
+        
+        <span class="icon"><i class="devicon-fortran-plain"></i></span>Fortran
+        
+        
+        
+        <span class="icon"><i class="devicon-cplusplus-plain"></i></span>Cplusplus
+        
+        
+        
+        <span class="icon"><i class="devicon-python-plain"></i></span>Python
+        
+        
+        
+        <span class="icon"><i class="devicon-r-plain"></i></span>R
+        
+        
+        
+        <span class="icon"><i class="devicon-linux-plain"></i></span>linux
+        
+        
+        
+        <span class="icon"><i class="devicon-git-plain"></i></span>git
+        
+        
+        
+        <span class="icon"><i class="devicon-bash-plain"></i></span>bash
+        
+        
+      </div>
+    </div>
+    
+    <div style="padding-bottom: 1rem;">
+      <h3 style="color: #868e96;">Data Management</h3>
+      <div>
+        
+        
+        
+        <span class="icon"><i class="devicon-bash-plain"></i></span>Data analysis
+        
+        
+        
+        
+        
+        <span class="icon"><i class="devicon-bash-plain"></i></span>Database Design and Planning
+        
+        
+        
+      </div>
+    </div>
+    
+    <div style="padding-bottom: 1rem;">
+      <h3 style="color: #868e96;">Containers &amp; Cloud</h3>
+      <div>
+        
+        
+        
+        <span class="icon"><i class="devicon-docker-plain"></i></span>Docker
+        
+        
+        
+        
+        
+        <span class="icon"><i class="devicon-bash-plain"></i></span>Singularity
+        
+        
+        
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+  </div>
+  
+
+  
+  <div class="section hero is-fullheight page" id="projects">
+    
+
+<div class="is-flex is-flex-direction-column is-justify-content-center" style="height: 100%;">
+  <h2><a href="https:&#x2F;&#x2F;annefou.github.io&#x2F;projects&#x2F;">projects</a></h2>
+  <div class="is-hidden-touch">
+    
+  </div>
+  
+  <div class="pb-6 pt-2" style="overflow: auto;">
+    
+    
+    <div class="mb-5">
+      <nav class="level mb-0">
+        <div class="level-left">
+          <div class="level-item">
+            <h3 class="post-title"><a href="https:&#x2F;&#x2F;annefou.github.io&#x2F;projects&#x2F;massive&#x2F;">MASSIVE</a></h3>
+          </div>
+          
+        </div>
+        <div class="level-right is-hidden-touch">
+          <div class="level-item">
+            <span class="post-date">2021-09-01</span>
+          </div>
+        </div>
+      </nav>
+      <div class="is-flex is-flex-direction-row">
+        
+        <div class="content" style="width: 100%;">
+          
+          <figure class="image is-128x128" style="float:left;">
+            
+            <img src="https://annefou.github.io/media/avatar-massive.png">
+            
+          </figure>
+          
+          <p>MAchine learning, Surface mass balance of glaciers, Snow cover, In-situ data, Volume change, Earth observation (MASSIVE).</p>
+
+          <a href="https:&#x2F;&#x2F;annefou.github.io&#x2F;projects&#x2F;massive&#x2F;">Read More</a>
+        </div>
+        
+      </div>
+      
+      <div class="tags">
+        
+        <span class="tag"><a href="/tags/glacier">glacier</a></span>
+        
+        <span class="tag"><a href="/tags/snow">snow</a></span>
+        
+        <span class="tag"><a href="/tags/machine learning">Machine Learning</a></span>
+        
+        <span class="tag"><a href="/tags/earth observation">Earth Observation</a></span>
+        
+      </div>
+      
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="mb-5">
+      <nav class="level mb-0">
+        <div class="level-left">
+          <div class="level-item">
+            <h3 class="post-title"><a href="https:&#x2F;&#x2F;annefou.github.io&#x2F;projects&#x2F;nicest2&#x2F;">NICEST2</a></h3>
+          </div>
+          
+        </div>
+        <div class="level-right is-hidden-touch">
+          <div class="level-item">
+            <span class="post-date">2020-04-01</span>
+          </div>
+        </div>
+      </nav>
+      <div class="is-flex is-flex-direction-row">
+        
+        <div class="content" style="width: 100%;">
+          
+          <figure class="image is-128x128" style="float:left;">
+            
+            <img src="https://annefou.github.io/media/avatar-nicest2.png">
+            
+          </figure>
+          
+          <p>NICEST-2 - the second phase of the Nordic Collaboration on e-Infrastructures for Earth System Modeling focuses on strengthening the Nordic position within climate modeling by leveraging, reinforcing and complementing ongoing initiatives.</p>
+
+          <a href="https:&#x2F;&#x2F;annefou.github.io&#x2F;projects&#x2F;nicest2&#x2F;">Read More</a>
+        </div>
+        
+      </div>
+      
+      <div class="tags">
+        
+        <span class="tag"><a href="/tags/neic">NeIC</a></span>
+        
+        <span class="tag"><a href="/tags/esm">ESM</a></span>
+        
+        <span class="tag"><a href="/tags/modelling">Modelling</a></span>
+        
+        <span class="tag"><a href="/tags/containers">Containers</a></span>
+        
+      </div>
+      
+    </div>
+    
+    
+    
+    
+    
+    
+  </div>
+  
+  <h3><a href="https:&#x2F;&#x2F;annefou.github.io&#x2F;projects&#x2F;">Wait! There's more..</a></h3>
+  
+</div>
+
+  </div>
+  
+
+  
+
+  
+
+  
+  <div class="section hero is-fullheight page" id="experience">
+    
+
+<div class="is-flex is-flex-direction-column is-justify-content-center" style="height: 100%;">
+  <h2>experience</h2>
+  <div style="overflow: auto;">
+    
+    <div class="mb-5">
+      <nav class="level mb-0">
+        <div class="level-left">
+          <div class="level-item">
+            <h3>Senior Research Engineer</h3>
+          </div>
+        </div>
+        <div class="level-right is-hidden-touch">
+          <div class="level-item">
+            October 2022 - NOW
+          </div>
+        </div>
+      </nav>
+      <div class="is-flex is-flex-direction-column is-align-items-start">
+        <h2 class="subtitle"><a href="https://www.simula.no">Simula Research Laboratory (Norway)</a></h2>
+        <div>
+          
+        </div>
+      </div>
+    </div>
+    
+    <div class="mb-5">
+      <nav class="level mb-0">
+        <div class="level-left">
+          <div class="level-item">
+            <h3>Senior Engineer</h3>
+          </div>
+        </div>
+        <div class="level-right is-hidden-touch">
+          <div class="level-item">
+            September 2013 -  September 2022
+          </div>
+        </div>
+      </nav>
+      <div class="is-flex is-flex-direction-column is-align-items-start">
+        <h2 class="subtitle"><a href="https://www.mn.uio.no/geo/english/">University of Oslo, Department of Geosciences (Norway)</a></h2>
+        <div>
+          Research Software for Meterology, Oceanography, climate science and Earth Observation
+        </div>
+      </div>
+    </div>
+    
+    <div class="mb-5">
+      <nav class="level mb-0">
+        <div class="level-left">
+          <div class="level-item">
+            <h3>Senior Analyst</h3>
+          </div>
+        </div>
+        <div class="level-right is-hidden-touch">
+          <div class="level-item">
+            December 2005 - September 2013
+          </div>
+        </div>
+      </nav>
+      <div class="is-flex is-flex-direction-column is-align-items-start">
+        <h2 class="subtitle"><a href="https://www.ecmwf.int">ECMWF (UK)</a></h2>
+        <div>
+          Responsible of the Observational DataBase (ODB) software, an had-hoc parallel database used at ECMWF, UK Metoffice, Australian Bureau of Meteorology, Meteo-France, HIRLAM (HIgh Resolution Limited Area Model) and ALADIN communities (more than 16 countries).
+        </div>
+      </div>
+    </div>
+    
+    <div class="mb-5">
+      <nav class="level mb-0">
+        <div class="level-left">
+          <div class="level-item">
+            <h3>Research Engineer</h3>
+          </div>
+        </div>
+        <div class="level-right is-hidden-touch">
+          <div class="level-item">
+            October 2001 - September 2013
+          </div>
+        </div>
+      </nav>
+      <div class="is-flex is-flex-direction-column is-align-items-start">
+        <h2 class="subtitle"><a href="http://www.idris.fr/eng/index.html">IDRIS, CNRS (France)</a></h2>
+        <div>
+          Assist users to fully take advantage of IDRIS (Institut du Dévelopement et des Ressources en Informatique Scientifique) computing facilities (porting, optimisation and parallelisation of user codes); Participation to EU projects such as DEISA (Distributed European Infrastructure for Supercomputing Applications); Teaching (Fortran, MPI, complexity, theory of languages) both at IDRIS and University.
+        </div>
+      </div>
+    </div>
+    
+    <div class="mb-5">
+      <nav class="level mb-0">
+        <div class="level-left">
+          <div class="level-item">
+            <h3>Researcher</h3>
+          </div>
+        </div>
+        <div class="level-right is-hidden-touch">
+          <div class="level-item">
+            September 1999 - October 2001
+          </div>
+        </div>
+      </nav>
+      <div class="is-flex is-flex-direction-column is-align-items-start">
+        <h2 class="subtitle"><a href="https://www.ifsttar.fr/en/welcome/">IFSTTAR (France)</a></h2>
+        <div>
+          Design of the architecture of the Intelligent Transport System in France; Development of a real time software to control (speed/direction) an automated vehicle prototype.
+        </div>
+      </div>
+    </div>
+    
+    <div class="mb-5">
+      <nav class="level mb-0">
+        <div class="level-left">
+          <div class="level-item">
+            <h3>Postdoctoral position</h3>
+          </div>
+        </div>
+        <div class="level-right is-hidden-touch">
+          <div class="level-item">
+            1998 - 1999
+          </div>
+        </div>
+      </nav>
+      <div class="is-flex is-flex-direction-column is-align-items-start">
+        <h2 class="subtitle"><a href="https://cerfacs.fr/en/home/">CERFACS (France)</a></h2>
+        <div>
+          Design and development of PALM (Projet d'Assimilation par Logiciel Multi-Méthodes) software (C/F90, MPI-2). PALM is a generalized coupler which ensures the correct link and synchronization of the software components of the data assimilation suite and which handles the algebra of the problem. 
+        </div>
+      </div>
+    </div>
+    
+    <div class="mb-5">
+      <nav class="level mb-0">
+        <div class="level-left">
+          <div class="level-item">
+            <h3>Non-tenure staff in the Physics Department</h3>
+          </div>
+        </div>
+        <div class="level-right is-hidden-touch">
+          <div class="level-item">
+            1997 - 1998
+          </div>
+        </div>
+      </nav>
+      <div class="is-flex is-flex-direction-column is-align-items-start">
+        <h2 class="subtitle"><a href="https://www.uca.fr/en">University Clermont Auvergne (France)</a></h2>
+        <div>
+          Non-tenure staf in the Physics Department. Lectures in mathematics and fluid mechanics (master's level), research on assimilation of satellite data in a regional atmospheric meso-scale model (RAMS).
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
+</div>
+
+  </div>
+  
+
+  
+  <div class="section hero is-fullheight page" id="education">
+    
+
+<div class="is-flex is-flex-direction-column is-justify-content-center" style="height: 100%;">
+  <h2>education</h2>
+  <div  style="overflow: auto;">
+    
+    <div class="mb-5">
+      <nav class="level mb-0">
+        <div class="level-left">
+          <div class="level-item">
+            <h3><a href="http://www.ens-lyon.fr/en/">Ecole normale supérieure (Lyon, France)</a></h3>
+          </div>
+        </div>
+        <div class="level-right is-hidden-touch">
+          <div class="level-item">
+            1990 - 1993
+          </div>
+        </div>
+      </nav>
+      <div class="is-flex is-flex-direction-column is-align-items-start">
+        <h2 class="subtitle">Computer Science</h2>
+        <div>
+          Parallelism, Complexity and Theory of languages
+        </div>
+        <div>
+          Master of Computer Science &amp; Postgraduate Diploma (DEA)
+        </div>
+      </div>
+    </div>
+    
+    <div class="mb-5">
+      <nav class="level mb-0">
+        <div class="level-left">
+          <div class="level-item">
+            <h3><a href="https://www.uca.fr/en">University Clermont Auvergne (France)</a></h3>
+          </div>
+        </div>
+        <div class="level-right is-hidden-touch">
+          <div class="level-item">
+            1993 - 1994
+          </div>
+        </div>
+      </nav>
+      <div class="is-flex is-flex-direction-column is-align-items-start">
+        <h2 class="subtitle">Meteorology and atmospheric water cycle</h2>
+        <div>
+          Meteorology, clouds
+        </div>
+        <div>
+          Postgraduate Diploma (DEA)
+        </div>
+      </div>
+    </div>
+    
+    <div class="mb-5">
+      <nav class="level mb-0">
+        <div class="level-left">
+          <div class="level-item">
+            <h3><a href="https://www.uca.fr/en">University Clermont Auvergne (France)</a></h3>
+          </div>
+        </div>
+        <div class="level-right is-hidden-touch">
+          <div class="level-item">
+            1994 - 1997
+          </div>
+        </div>
+      </nav>
+      <div class="is-flex is-flex-direction-column is-align-items-start">
+        <h2 class="subtitle">Atmospheric physics</h2>
+        <div>
+          Meteorology, cloud modelling, remote sensing and satellite data processing
+        </div>
+        <div>
+          Doctor of Philosophy (Ph.D.)
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+  </div>
+  
+
+  
+
+</div>
+
+  </div>
+  
+<script>
+  function show_bib(bib_path) {
+    $.ajax({
+      url: bib_path,
+      success: function (data) {
+        $("#bibtex-content").text(data);
+        $("#copyTarget").addClass("is-active");
+      },
+    });
+  }
+
+  document
+    .getElementById("copyButton")
+    .addEventListener("click", function () {
+      var copyText = document.getElementById("bibtex-content");
+      copyText.select();
+      copyText.setSelectionRange(0, 99999);
+      navigator.clipboard.writeText(copyText.value);
+      $("#copyTarget").removeClass("is-active");
+    });
+</script>
+
+  
+
+
+  
+<script src="https://cdn.jsdelivr.net/npm/fullpage.js@3.1.2/dist/fullpage.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fullpage.js@3.1.2/vendors/scrolloverflow.min.js"></script>
+<script type="text/javascript">
+    var fullpages = new fullpage('#fullpage', {
+        menu: '#menu',
+        setRecordHistory: false,
+        anchors: [
+             'anchor_about',         
+             'anchor_skills',        
+             'anchor_projects',      
+            
+            
+             'anchor_experience',    
+             'anchor_education',     
+            
+        ],
+        afterResize: function( width, height ){
+		    if (width < 936) {
+                fullpage_api.setAutoScrolling(false);
+            } else {
+                fullpage_api.setAutoScrolling(true);
+            }
+	    }
+    });
+    if (screen.width < 936){
+        fullpages.setAutoScrolling(false);
+    }
+
+</script>
+
+</body>
+
+</html>

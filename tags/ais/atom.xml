@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Anne Fouilloux - AIS</title>
+    <subtitle>My personal website</subtitle>
+    <link href="https://annefou.github.io/tags/ais/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://annefou.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-10-01T00:00:00+00:00</updated>
+    <id>https://annefou.github.io/tags/ais/atom.xml</id>
+    <entry xml:lang="en">
+        <title>TSAR</title>
+        <published>2022-10-01T00:00:00+00:00</published>
+        <updated>2022-10-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://annefou.github.io/projects/tsar/" type="text/html"/>
+        <id>https://annefou.github.io/projects/tsar/</id>
+        
+        <content type="html">&lt;h3 id=&quot;tsar&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.simula.no&#x2F;research&#x2F;projects&#x2F;t-sar&quot;&gt;TSAR&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.simula.no&#x2F;research&#x2F;projects&#x2F;t-sar&quot;&gt;T-SAR&lt;&#x2F;a&gt; project: it aims at demonstrating that recent advances in Artificial Intelligence (AI) can be leveraged in the automatic detection of FDIA in transport infrastructures. Prototypes have been developed by researchers (PhD student) and I am working on the operationalization of the code base.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;funding&quot;&gt;Funding&lt;&#x2F;h4&gt;
+&lt;p&gt;TSAR is funded by the Research Council of Norway.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
