@@ -1,0 +1,44 @@
+[
+    {
+        "role": "Senior Research Engineer",
+        "company": "[Simula Research Laboratory (Norway)](https://www.simula.no)",
+        "summary": "",
+        "range": "October 2022 - NOW"
+    },
+    {
+        "role": "Senior Engineer",
+        "company": "[University of Oslo, Department of Geosciences (Norway)](https://www.mn.uio.no/geo/english/)",
+        "summary": "Research Software for Meterology, Oceanography, climate science and Earth Observation",
+        "range": "September 2013 -  September 2022"
+    },
+    {
+        "role": "Senior Analyst",
+        "company": "[ECMWF (UK)](https://www.ecmwf.int)",
+        "summary": "Responsible of the Observational DataBase (ODB) software, an had-hoc parallel database used at ECMWF, UK Metoffice, Australian Bureau of Meteorology, Meteo-France, HIRLAM (HIgh Resolution Limited Area Model) and ALADIN communities (more than 16 countries).",
+        "range": "December 2005 - September 2013"
+    },
+    {
+        "role": "Research Engineer",
+        "company": "[IDRIS, CNRS (France)](http://www.idris.fr/eng/index.html)",
+        "summary": "Assist users to fully take advantage of IDRIS (Institut du Dévelopement et des Ressources en Informatique Scientifique) computing facilities (porting, optimisation and parallelisation of user codes); Participation to EU projects such as DEISA (Distributed European Infrastructure for Supercomputing Applications); Teaching (Fortran, MPI, complexity, theory of languages) both at IDRIS and University.",
+        "range": "October 2001 - September 2013"
+    },
+    {
+        "role": "Researcher",
+        "company": "[IFSTTAR (France)](https://www.ifsttar.fr/en/welcome/)",
+        "summary": "Design of the architecture of the Intelligent Transport System in France; Development of a real time software to control (speed/direction) an automated vehicle prototype.",
+        "range": "September 1999 - October 2001"
+    },
+    {
+        "role": "Postdoctoral position",
+        "company": "[CERFACS (France)](https://cerfacs.fr/en/home/)",
+        "summary": "Design and development of PALM (Projet d'Assimilation par Logiciel Multi-Méthodes) software (C/F90, MPI-2). PALM is a generalized coupler which ensures the correct link and synchronization of the software components of the data assimilation suite and which handles the algebra of the problem. ",
+        "range": "1998 - 1999"
+    },
+    {
+        "role": "Non-tenure staff in the Physics Department",
+        "company": "[University Clermont Auvergne (France)](https://www.uca.fr/en)",
+        "summary": "Non-tenure staf in the Physics Department. Lectures in mathematics and fluid mechanics (master's level), research on assimilation of satellite data in a regional atmospheric meso-scale model (RAMS).",
+        "range": "1997 - 1998"
+    }
+]

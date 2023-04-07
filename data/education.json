@@ -1,0 +1,24 @@
+[
+    {
+        "school": "[Ecole normale supérieure (Lyon, France)](http://www.ens-lyon.fr/en/)",
+        "degree": "Computer Science",
+        "major": "Parallelism, Complexity and Theory of languages",
+        "notes": "Master of Computer Science & Postgraduate Diploma (DEA)",
+        "range": "1990 - 1993"
+    },
+    {
+        "school": "[University Clermont Auvergne (France)](https://www.uca.fr/en)",
+        "degree": "Meteorology and atmospheric water cycle",
+        "major": "Meteorology, clouds",
+        "notes": "Postgraduate Diploma (DEA)",
+        "range": "1993 - 1994"
+    },
+    {
+        "school": "[University Clermont Auvergne (France)](https://www.uca.fr/en)",
+        "degree": "Atmospheric physics",
+        "major": "Meteorology, cloud modelling, remote sensing and satellite data processing",
+        "notes": "Doctor of Philosophy (Ph.D.)",
+        "range": "1994 - 1997"
+    }
+   
+]

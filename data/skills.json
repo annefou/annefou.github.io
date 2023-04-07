@@ -1,0 +1,41 @@
+[
+  {
+    "grouping": "Languages, Operating Systems & Tools",
+    "skills": [
+      "Fortran",
+      "Cplusplus",
+      "Python",
+      "R",
+      "linux",
+      "git",
+      "bash"
+    ]
+  },
+  {
+    "grouping": "Data Management",
+    "skills": [
+      {
+        "name": "Data analysis",
+        "icon": "bash"
+      },
+      {
+        "name": "Database Design and Planning",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      {
+        "name": "Docker",
+        "link": "https://docker.com"
+      },
+      {
+        "name": "Singularity",
+        "link": "https://singularityhub.github.io",
+        "icon": "bash"
+      }
+    ]
+  }
+]
