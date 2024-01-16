@@ -2,22 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Anne Fouilloux</title>
     <subtitle>My personal website</subtitle>
-    <link href="https://annefou.github.io/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://annefou.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://annefou.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://annefou.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2022-10-01T00:00:00+00:00</updated>
+    <updated>2023-11-17T00:00:00+00:00</updated>
     <id>https://annefou.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>GFTS</title>
+        <published>2023-11-17T00:00:00+00:00</published>
+        <updated>2023-11-17T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://annefou.github.io/projects/gfts/"/>
+        <id>https://annefou.github.io/projects/gfts/</id>
+        
+        <content type="html" xml:base="https://annefou.github.io/projects/gfts/">&lt;h3 id=&quot;gfts&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;destination-earth&#x2F;DestinE_ESA_GFTS&quot;&gt;GFTS&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;Details on the project can be found &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;destination-earth&#x2F;DestinE_ESA_GFTS&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;funding&quot;&gt;Funding&lt;&#x2F;h4&gt;
+&lt;p&gt;GFTS is funded by ESA.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>TSAR</title>
         <published>2022-10-01T00:00:00+00:00</published>
         <updated>2022-10-01T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://annefou.github.io/projects/tsar/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://annefou.github.io/projects/tsar/"/>
         <id>https://annefou.github.io/projects/tsar/</id>
         
-        <content type="html">&lt;h3 id=&quot;tsar&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.simula.no&#x2F;research&#x2F;projects&#x2F;t-sar&quot;&gt;TSAR&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="https://annefou.github.io/projects/tsar/">&lt;h3 id=&quot;tsar&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.simula.no&#x2F;research&#x2F;projects&#x2F;t-sar&quot;&gt;TSAR&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.simula.no&#x2F;research&#x2F;projects&#x2F;t-sar&quot;&gt;T-SAR&lt;&#x2F;a&gt; project: it aims at demonstrating that recent advances in Artificial Intelligence (AI) can be leveraged in the automatic detection of FDIA in transport infrastructures. Prototypes have been developed by researchers (PhD student) and I am working on the operationalization of the code base.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -30,13 +59,19 @@
         <title>MASSIVE</title>
         <published>2021-09-01T00:00:00+00:00</published>
         <updated>2021-09-01T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://annefou.github.io/projects/massive/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://annefou.github.io/projects/massive/"/>
         <id>https://annefou.github.io/projects/massive/</id>
         
-        <content type="html">&lt;h3 id=&quot;massive&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mn.uio.no&#x2F;geo&#x2F;forskning&#x2F;prosjekter&#x2F;massive&#x2F;&quot;&gt;MASSIVE&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="https://annefou.github.io/projects/massive/">&lt;h3 id=&quot;massive&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mn.uio.no&#x2F;geo&#x2F;forskning&#x2F;prosjekter&#x2F;massive&#x2F;&quot;&gt;MASSIVE&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mn.uio.no&#x2F;geo&#x2F;english&#x2F;research&#x2F;projects&#x2F;massive&#x2F;index.html&quot;&gt;MAchine learning, Surface mass balance of glaciers, Snow cover, In-situ data, Volume change, Earth observation (MASSIVE) project&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
 &lt;h4 id=&quot;main-activities&quot;&gt;Main activities&lt;&#x2F;h4&gt;
 &lt;p&gt;The project team aims at improving glacier mapping and surface glacier mass balance estimation techniques with the help of machine learning, especially deep learning. We will develop the methodology for glaciers in Norway, Svalbard, the European Alps and the Himalayas and then expand it to regions with different glacier characteristics.&lt;&#x2F;p&gt;
@@ -50,13 +85,19 @@ This research project is funded by the “Forskerprosjekt for fornyelse-programm
         <title>Huggingface&#x2F;datasets</title>
         <published>2021-08-28T14:13:14.674+00:00</published>
         <updated>2021-08-28T14:13:14.674+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://annefou.github.io/opensource/huggingface-datasets/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://annefou.github.io/opensource/huggingface-datasets/"/>
         <id>https://annefou.github.io/opensource/huggingface-datasets/</id>
         
-        <content type="html">&lt;p&gt;🤗 Datasets is a lightweight library providing two main features:&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://annefou.github.io/opensource/huggingface-datasets/">&lt;p&gt;🤗 Datasets is a lightweight library providing two main features:&lt;&#x2F;p&gt;
 &lt;p&gt;one-line dataloaders for many public datasets: &lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;one liners to download and pre-process any of the number of datasets major public datasets (in 467 languages and dialects!) provided on the HuggingFace Datasets Hub. With a simple command like &lt;code&gt;squad_dataset = load_dataset(&amp;quot;squad&amp;quot;)&lt;&#x2F;code&gt;, get any of these datasets ready to use in a dataloader for training&#x2F;evaluating a ML model (Numpy&#x2F;Pandas&#x2F;PyTorch&#x2F;TensorFlow&#x2F;JAX),&lt;&#x2F;li&gt;
@@ -69,13 +110,19 @@ This research project is funded by the “Forskerprosjekt for fornyelse-programm
         <title>N-LTP: A Open-source Neural Chinese Language Technology Platform with Pretrained Models</title>
         <published>2021-08-28T11:00:37.434+00:00</published>
         <updated>2021-08-28T11:00:37.434+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://annefou.github.io/publications/n-ltp-a-open-source-neural-chinese-language-technology-platform-with-pretrained-models/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://annefou.github.io/publications/n-ltp-a-open-source-neural-chinese-language-technology-platform-with-pretrained-models/"/>
         <id>https://annefou.github.io/publications/n-ltp-a-open-source-neural-chinese-language-technology-platform-with-pretrained-models/</id>
         
-        <content type="html">&lt;p&gt;An open-source neural language technology platform supporting six fundamental Chinese NLP tasks: &lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://annefou.github.io/publications/n-ltp-a-open-source-neural-chinese-language-technology-platform-with-pretrained-models/">&lt;p&gt;An open-source neural language technology platform supporting six fundamental Chinese NLP tasks: &lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;lexical analysis (Chinese word segmentation, part-of-speech tagging, and named entity recognition)&lt;&#x2F;li&gt;
 &lt;li&gt;syntactic parsing (dependency parsing)&lt;&#x2F;li&gt;
@@ -91,13 +138,19 @@ This research project is funded by the “Forskerprosjekt for fornyelse-programm
         <title>RELIANCE</title>
         <published>2021-01-01T00:00:00+00:00</published>
         <updated>2021-01-01T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://annefou.github.io/projects/reliance/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://annefou.github.io/projects/reliance/"/>
         <id>https://annefou.github.io/projects/reliance/</id>
         
-        <content type="html">&lt;h3 id=&quot;reliance&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reliance-project.eu&#x2F;&quot;&gt;RELIANCE&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="https://annefou.github.io/projects/reliance/">&lt;h3 id=&quot;reliance&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reliance-project.eu&#x2F;&quot;&gt;RELIANCE&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reliance-project.eu&#x2F;&quot;&gt;Research Lifecycle Management technologies for Earth Science Communities and Copernicus users in EOSC (RELIANCE)&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;main-activities&quot;&gt;Main activities&lt;&#x2F;h4&gt;
 &lt;p&gt;Reliance delivers a suite of innovative and interconnected services that extend EOSC’s capabilities to support the management of the research lifecycle within Earth Science Communities and Copernicus Users.&lt;&#x2F;p&gt;
@@ -110,13 +163,19 @@ This research project is funded by the “Forskerprosjekt for fornyelse-programm
         <title>HIT-SCIR at MRP 2020: Transition-based Parser and Iterative Inference Parser</title>
         <published>2020-09-01T11:00:06.142+00:00</published>
         <updated>2020-09-01T11:00:06.142+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://annefou.github.io/publications/hit-scir-at-mrp-2020-transition-based-parser-and-iterative-inference-parser/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://annefou.github.io/publications/hit-scir-at-mrp-2020-transition-based-parser-and-iterative-inference-parser/"/>
         <id>https://annefou.github.io/publications/hit-scir-at-mrp-2020-transition-based-parser-and-iterative-inference-parser/</id>
         
-        <content type="html">&lt;p&gt;This paper describes our submission system (HIT-SCIR) for the CoNLL 2020 shared task: Cross-Framework and Cross-Lingual Meaning Representation Parsing. &lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://annefou.github.io/publications/hit-scir-at-mrp-2020-transition-based-parser-and-iterative-inference-parser/">&lt;p&gt;This paper describes our submission system (HIT-SCIR) for the CoNLL 2020 shared task: Cross-Framework and Cross-Lingual Meaning Representation Parsing. &lt;&#x2F;p&gt;
 &lt;p&gt;The task includes five frameworks for graph-based meaning representations, i.e., UCCA, EDS, PTG, AMR, and DRG. &lt;&#x2F;p&gt;
 &lt;p&gt;Our solution consists of two sub-systems: &lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -131,13 +190,19 @@ This research project is funded by the “Forskerprosjekt for fornyelse-programm
         <title>NICEST2</title>
         <published>2020-04-01T00:00:00+00:00</published>
         <updated>2020-04-01T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://annefou.github.io/projects/nicest2/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://annefou.github.io/projects/nicest2/"/>
         <id>https://annefou.github.io/projects/nicest2/</id>
         
-        <content type="html">&lt;h3 id=&quot;nicest2&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nordicesmhub.github.io&#x2F;nicest2&#x2F;&quot;&gt;NICEST2&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="https://annefou.github.io/projects/nicest2/">&lt;h3 id=&quot;nicest2&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nordicesmhub.github.io&#x2F;nicest2&#x2F;&quot;&gt;NICEST2&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;neic.no&#x2F;nicest2&#x2F;&quot;&gt;NICEST2&lt;&#x2F;a&gt; project: I am the project leader of the second phase of the Nordic Collaboration on e-Infrastructures for Earth System Modeling. This project focuses on strengthening the Nordic position within climate modeling by leveraging, reinforcing and complementing ongoing initiatives.&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;main-activities&quot;&gt;Main activities&lt;&#x2F;h4&gt;
 &lt;ul&gt;
@@ -154,13 +219,19 @@ This research project is funded by the “Forskerprosjekt for fornyelse-programm
         <title>EOSC-NORDIC</title>
         <published>2019-09-01T00:00:00+00:00</published>
         <updated>2019-09-01T00:00:00+00:00</updated>
+        
         <author>
-          <name>Unknown</name>
+          <name>
+            
+              Unknown
+            
+          </name>
         </author>
-        <link rel="alternate" href="https://annefou.github.io/projects/eosc-nordic/" type="text/html"/>
+        
+        <link rel="alternate" type="text/html" href="https://annefou.github.io/projects/eosc-nordic/"/>
         <id>https://annefou.github.io/projects/eosc-nordic/</id>
         
-        <content type="html">&lt;h3 id=&quot;eosc-nordic&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.eosc-nordic.eu&#x2F;&quot;&gt;EOSC-NORDIC&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="https://annefou.github.io/projects/eosc-nordic/">&lt;h3 id=&quot;eosc-nordic&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.eosc-nordic.eu&#x2F;&quot;&gt;EOSC-NORDIC&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.eosc-nordic.eu&#x2F;&quot;&gt;EOSC-Nordic&lt;&#x2F;a&gt; project: it aims to facilitate the coordination of EOSC relevant initiatives within the Nordic and Baltic countries. I am involved in the WP5 on the &lt;a href=&quot;https:&#x2F;&#x2F;nordicesmhub.github.io&#x2F;eosc-nordic-climate-demonstrator&#x2F;&quot;&gt;climate Science demonstrator&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;funding&quot;&gt;Funding&lt;&#x2F;h4&gt;
 &lt;p&gt;The EOSC-Nordic project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 857652.&lt;&#x2F;p&gt;
