@@ -19,8 +19,6 @@ title: "About"
 
 ### Hi there 👋 I am a Senior Research Engineer at [Simula Research Laboratory](https://www.simula.no). 
 
-- 👯 I’m looking to collaborate on Open Science, [Research Objects](https://www.researchobject.org) and [FAIR Digital Objects](https://fairdo.org).
-
 - 🔭 I'm an active member of the [Pangeo](https://pangeo.io) community that aims at promoting open, reproducible, and scalable science.
 
 - 💬 I am leading the [Galaxy Climate Science Workbench](https://climate.usegalaxy.eu/) and the [Nordic Earth System Modelling Hub](https://github.com/NordicESMhub/).
