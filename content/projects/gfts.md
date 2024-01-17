@@ -13,9 +13,14 @@ taxonomies:
 ---
 ### [GFTS](https://github.com/destination-earth/DestinE_ESA_GFTS)
 
-Details on the project can be found [here](https://github.com/destination-earth/DestinE_ESA_GFTS).
+The Global Fish Tracking System (GFTS) is a use case from the [Destination Earth](https://destination-earth.eu) initiative.
+
+- [GFTS official website](https://destination-earth.eu/use-cases/global-fish-tracking-system-gfts/)
+- [GFTS GitHub](https://github.com/destination-earth/DestinE_ESA_GFTS).
+- [GFTS Project Documentation](https://destination-earth.github.io/DestinE_ESA_GFTS/intro.html)
+
 
 #### Funding
 
-GFTS is funded by ESA.
+GFTS project has been procured by [ESA](https://www.esa.int).
 
