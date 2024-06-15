@@ -2,7 +2,7 @@
 title: "NICEST2"
 date: 2020-04-01
 extra:
-  featured: true
+  featured: false
   link: https://neic.no/nicest2/
   image: /media/avatar-nicest2.png
 description: NICEST-2 - the second phase of the Nordic Collaboration on e-Infrastructures for Earth System Modeling focuses on strengthening the Nordic position within climate modeling by leveraging, reinforcing and complementing ongoing initiatives. 
