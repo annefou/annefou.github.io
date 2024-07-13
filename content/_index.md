@@ -17,8 +17,6 @@ title: "About"
   https://orcid.org/0000-0002-1784-2920
 </a>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd1112ce-a5e7-48f1-8977-75cffb18b5a2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 ### Hi there 👋 I am a Senior Research Engineer at [Simula Research Laboratory](https://www.simula.no). 
 
 - 🔭 I'm an active member of the [Pangeo](https://pangeo.io) community that aims at promoting open, reproducible, and scalable science.
