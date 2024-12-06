@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Anne Fouilloux - Jupyter</title>
+    <subtitle>My personal website</subtitle>
+    <link href="https://annefou.github.io/tags/jupyter/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://annefou.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-11-17T00:00:00+00:00</updated>
+    <id>https://annefou.github.io/tags/jupyter/atom.xml</id>
+    <entry xml:lang="en">
+        <title>JupyterGIS</title>
+        <published>2023-11-17T00:00:00+00:00</published>
+        <updated>2023-11-17T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://annefou.github.io/projects/jupytergis/" type="text/html"/>
+        <id>https://annefou.github.io/projects/jupytergis/</id>
+        
+        <content type="html">&lt;h3 id=&quot;jupytergis&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;geojupyter.github.io&#x2F;jupytergis&#x2F;&quot;&gt;JupyterGIS&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;geojupyter&#x2F;jupytergis&quot;&gt;Source code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;geojupyter.org&quot;&gt;GeoJupyter Initiative&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;funding&quot;&gt;Funding&lt;&#x2F;h4&gt;
+&lt;p&gt;JupyterGIS  project has been procured by &lt;a href=&quot;https:&#x2F;&#x2F;www.esa.int&quot;&gt;ESA&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

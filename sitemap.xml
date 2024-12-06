@@ -28,6 +28,10 @@
         <lastmod>2023-11-17</lastmod>
     </url>
     <url>
+        <loc>https://annefou.github.io/projects/jupytergis/</loc>
+        <lastmod>2023-11-17</lastmod>
+    </url>
+    <url>
         <loc>https://annefou.github.io/projects/massive/</loc>
         <lastmod>2021-09-01</lastmod>
     </url>
@@ -97,6 +101,9 @@
         <loc>https://annefou.github.io/tags/eosc/</loc>
     </url>
     <url>
+        <loc>https://annefou.github.io/tags/esa/</loc>
+    </url>
+    <url>
         <loc>https://annefou.github.io/tags/esm/</loc>
     </url>
     <url>
@@ -107,6 +114,9 @@
     </url>
     <url>
         <loc>https://annefou.github.io/tags/json-ld/</loc>
+    </url>
+    <url>
+        <loc>https://annefou.github.io/tags/jupyter/</loc>
     </url>
     <url>
         <loc>https://annefou.github.io/tags/machine-learning/</loc>
