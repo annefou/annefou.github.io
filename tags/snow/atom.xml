@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Anne Fouilloux - snow</title>
     <subtitle>My personal website</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://annefou.github.io/tags/snow/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://annefou.github.io"/>
+    <link href="https://annefou.github.io/tags/snow/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://annefou.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2021-09-01T00:00:00+00:00</updated>
     <id>https://annefou.github.io/tags/snow/atom.xml</id>
@@ -11,19 +11,13 @@
         <title>MASSIVE</title>
         <published>2021-09-01T00:00:00+00:00</published>
         <updated>2021-09-01T00:00:00+00:00</updated>
-        
         <author>
-          <name>
-            
-              Unknown
-            
-          </name>
+          <name>Unknown</name>
         </author>
-        
-        <link rel="alternate" type="text/html" href="https://annefou.github.io/projects/massive/"/>
+        <link rel="alternate" href="https://annefou.github.io/projects/massive/" type="text/html"/>
         <id>https://annefou.github.io/projects/massive/</id>
         
-        <content type="html" xml:base="https://annefou.github.io/projects/massive/">&lt;h3 id=&quot;massive&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mn.uio.no&#x2F;geo&#x2F;forskning&#x2F;prosjekter&#x2F;massive&#x2F;&quot;&gt;MASSIVE&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+        <content type="html">&lt;h3 id=&quot;massive&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mn.uio.no&#x2F;geo&#x2F;forskning&#x2F;prosjekter&#x2F;massive&#x2F;&quot;&gt;MASSIVE&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mn.uio.no&#x2F;geo&#x2F;english&#x2F;research&#x2F;projects&#x2F;massive&#x2F;index.html&quot;&gt;MAchine learning, Surface mass balance of glaciers, Snow cover, In-situ data, Volume change, Earth observation (MASSIVE) project&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
 &lt;h4 id=&quot;main-activities&quot;&gt;Main activities&lt;&#x2F;h4&gt;
 &lt;p&gt;The project team aims at improving glacier mapping and surface glacier mass balance estimation techniques with the help of machine learning, especially deep learning. We will develop the methodology for glaciers in Norway, Svalbard, the European Alps and the Himalayas and then expand it to regions with different glacier characteristics.&lt;&#x2F;p&gt;

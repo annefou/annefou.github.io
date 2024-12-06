@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Anne Fouilloux - EOSC</title>
     <subtitle>My personal website</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://annefou.github.io/tags/eosc/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://annefou.github.io"/>
+    <link href="https://annefou.github.io/tags/eosc/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://annefou.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2021-01-01T00:00:00+00:00</updated>
     <id>https://annefou.github.io/tags/eosc/atom.xml</id>
@@ -11,19 +11,13 @@
         <title>RELIANCE</title>
         <published>2021-01-01T00:00:00+00:00</published>
         <updated>2021-01-01T00:00:00+00:00</updated>
-        
         <author>
-          <name>
-            
-              Unknown
-            
-          </name>
+          <name>Unknown</name>
         </author>
-        
-        <link rel="alternate" type="text/html" href="https://annefou.github.io/projects/reliance/"/>
+        <link rel="alternate" href="https://annefou.github.io/projects/reliance/" type="text/html"/>
         <id>https://annefou.github.io/projects/reliance/</id>
         
-        <content type="html" xml:base="https://annefou.github.io/projects/reliance/">&lt;h3 id=&quot;reliance&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reliance-project.eu&#x2F;&quot;&gt;RELIANCE&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+        <content type="html">&lt;h3 id=&quot;reliance&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reliance-project.eu&#x2F;&quot;&gt;RELIANCE&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reliance-project.eu&#x2F;&quot;&gt;Research Lifecycle Management technologies for Earth Science Communities and Copernicus users in EOSC (RELIANCE)&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;main-activities&quot;&gt;Main activities&lt;&#x2F;h4&gt;
 &lt;p&gt;Reliance delivers a suite of innovative and interconnected services that extend EOSC’s capabilities to support the management of the research lifecycle within Earth Science Communities and Copernicus Users.&lt;&#x2F;p&gt;
@@ -36,19 +30,13 @@
         <title>EOSC-NORDIC</title>
         <published>2019-09-01T00:00:00+00:00</published>
         <updated>2019-09-01T00:00:00+00:00</updated>
-        
         <author>
-          <name>
-            
-              Unknown
-            
-          </name>
+          <name>Unknown</name>
         </author>
-        
-        <link rel="alternate" type="text/html" href="https://annefou.github.io/projects/eosc-nordic/"/>
+        <link rel="alternate" href="https://annefou.github.io/projects/eosc-nordic/" type="text/html"/>
         <id>https://annefou.github.io/projects/eosc-nordic/</id>
         
-        <content type="html" xml:base="https://annefou.github.io/projects/eosc-nordic/">&lt;h3 id=&quot;eosc-nordic&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.eosc-nordic.eu&#x2F;&quot;&gt;EOSC-NORDIC&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+        <content type="html">&lt;h3 id=&quot;eosc-nordic&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.eosc-nordic.eu&#x2F;&quot;&gt;EOSC-NORDIC&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.eosc-nordic.eu&#x2F;&quot;&gt;EOSC-Nordic&lt;&#x2F;a&gt; project: it aims to facilitate the coordination of EOSC relevant initiatives within the Nordic and Baltic countries. I am involved in the WP5 on the &lt;a href=&quot;https:&#x2F;&#x2F;nordicesmhub.github.io&#x2F;eosc-nordic-climate-demonstrator&#x2F;&quot;&gt;climate Science demonstrator&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;funding&quot;&gt;Funding&lt;&#x2F;h4&gt;
 &lt;p&gt;The EOSC-Nordic project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 857652.&lt;&#x2F;p&gt;

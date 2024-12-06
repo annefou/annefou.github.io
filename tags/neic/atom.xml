@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Anne Fouilloux - NeIC</title>
     <subtitle>My personal website</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://annefou.github.io/tags/neic/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://annefou.github.io"/>
+    <link href="https://annefou.github.io/tags/neic/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://annefou.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-04-01T00:00:00+00:00</updated>
     <id>https://annefou.github.io/tags/neic/atom.xml</id>
@@ -11,19 +11,13 @@
         <title>NICEST2</title>
         <published>2020-04-01T00:00:00+00:00</published>
         <updated>2020-04-01T00:00:00+00:00</updated>
-        
         <author>
-          <name>
-            
-              Unknown
-            
-          </name>
+          <name>Unknown</name>
         </author>
-        
-        <link rel="alternate" type="text/html" href="https://annefou.github.io/projects/nicest2/"/>
+        <link rel="alternate" href="https://annefou.github.io/projects/nicest2/" type="text/html"/>
         <id>https://annefou.github.io/projects/nicest2/</id>
         
-        <content type="html" xml:base="https://annefou.github.io/projects/nicest2/">&lt;h3 id=&quot;nicest2&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nordicesmhub.github.io&#x2F;nicest2&#x2F;&quot;&gt;NICEST2&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+        <content type="html">&lt;h3 id=&quot;nicest2&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nordicesmhub.github.io&#x2F;nicest2&#x2F;&quot;&gt;NICEST2&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;neic.no&#x2F;nicest2&#x2F;&quot;&gt;NICEST2&lt;&#x2F;a&gt; project: I am the project leader of the second phase of the Nordic Collaboration on e-Infrastructures for Earth System Modeling. This project focuses on strengthening the Nordic position within climate modeling by leveraging, reinforcing and complementing ongoing initiatives.&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;main-activities&quot;&gt;Main activities&lt;&#x2F;h4&gt;
 &lt;ul&gt;

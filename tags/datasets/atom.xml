@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Anne Fouilloux - Datasets</title>
     <subtitle>My personal website</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://annefou.github.io/tags/datasets/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://annefou.github.io"/>
+    <link href="https://annefou.github.io/tags/datasets/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://annefou.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2021-08-28T14:13:14.674+00:00</updated>
     <id>https://annefou.github.io/tags/datasets/atom.xml</id>
@@ -11,19 +11,13 @@
         <title>Huggingface&#x2F;datasets</title>
         <published>2021-08-28T14:13:14.674+00:00</published>
         <updated>2021-08-28T14:13:14.674+00:00</updated>
-        
         <author>
-          <name>
-            
-              Unknown
-            
-          </name>
+          <name>Unknown</name>
         </author>
-        
-        <link rel="alternate" type="text/html" href="https://annefou.github.io/opensource/huggingface-datasets/"/>
+        <link rel="alternate" href="https://annefou.github.io/opensource/huggingface-datasets/" type="text/html"/>
         <id>https://annefou.github.io/opensource/huggingface-datasets/</id>
         
-        <content type="html" xml:base="https://annefou.github.io/opensource/huggingface-datasets/">&lt;p&gt;🤗 Datasets is a lightweight library providing two main features:&lt;&#x2F;p&gt;
+        <content type="html">&lt;p&gt;🤗 Datasets is a lightweight library providing two main features:&lt;&#x2F;p&gt;
 &lt;p&gt;one-line dataloaders for many public datasets: &lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;one liners to download and pre-process any of the number of datasets major public datasets (in 467 languages and dialects!) provided on the HuggingFace Datasets Hub. With a simple command like &lt;code&gt;squad_dataset = load_dataset(&amp;quot;squad&amp;quot;)&lt;&#x2F;code&gt;, get any of these datasets ready to use in a dataloader for training&#x2F;evaluating a ML model (Numpy&#x2F;Pandas&#x2F;PyTorch&#x2F;TensorFlow&#x2F;JAX),&lt;&#x2F;li&gt;
