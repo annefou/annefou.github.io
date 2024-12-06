@@ -2,7 +2,6 @@ base_url = "https://annefou.github.io"
 compile_sass = true
 title = "Anne Fouilloux"
 description = "My personal website"
-generate_feed = true
 build_search_index = true
 taxonomies = [
   { name = "tags", feed = true },
