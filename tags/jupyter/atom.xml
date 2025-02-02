@@ -5,8 +5,27 @@
     <link href="https://annefou.github.io/tags/jupyter/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://annefou.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-11-17T00:00:00+00:00</updated>
+    <updated>2025-01-01T00:00:00+00:00</updated>
     <id>https://annefou.github.io/tags/jupyter/atom.xml</id>
+    <entry xml:lang="en">
+        <title>FAIR2Adapt</title>
+        <published>2025-01-01T00:00:00+00:00</published>
+        <updated>2025-01-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://annefou.github.io/projects/fair2adapt/" type="text/html"/>
+        <id>https://annefou.github.io/projects/fair2adapt/</id>
+        
+        <content type="html">&lt;h3 id=&quot;fair2adapt&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;fair2adapt-eosc.eu&#x2F;&quot;&gt;FAIR2Adapt&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;FAIR2Adapt&quot;&gt;FAIR2Adapt Github organisation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;funding&quot;&gt;Funding&lt;&#x2F;h4&gt;
+&lt;p&gt;FAIR2Adapt (Grant agreement ID: 101188256, DOI: &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.3030&#x2F;101188256&quot;&gt;10.3030&#x2F;101188256&lt;&#x2F;a&gt; is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the Agency. Neither the European Union nor the granting authority can be held responsible for them.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>JupyterGIS</title>
         <published>2023-11-17T00:00:00+00:00</published>

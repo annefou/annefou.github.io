@@ -24,6 +24,10 @@
         <lastmod>2019-09-01</lastmod>
     </url>
     <url>
+        <loc>https://annefou.github.io/projects/fair2adapt/</loc>
+        <lastmod>2025-01-01</lastmod>
+    </url>
+    <url>
         <loc>https://annefou.github.io/projects/gfts/</loc>
         <lastmod>2023-11-17</lastmod>
     </url>
@@ -72,6 +76,9 @@
     </url>
     <url>
         <loc>https://annefou.github.io/tags/chinese/</loc>
+    </url>
+    <url>
+        <loc>https://annefou.github.io/tags/climate-change-adaptation/</loc>
     </url>
     <url>
         <loc>https://annefou.github.io/tags/climate/</loc>
@@ -135,6 +142,9 @@
     </url>
     <url>
         <loc>https://annefou.github.io/tags/pytorch/</loc>
+    </url>
+    <url>
+        <loc>https://annefou.github.io/tags/research-infrastructure/</loc>
     </url>
     <url>
         <loc>https://annefou.github.io/tags/research-object/</loc>
