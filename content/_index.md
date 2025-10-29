@@ -17,8 +17,9 @@ title: "About"
   https://orcid.org/0000-0002-1784-2920
 </a>
 
-### Hi there 👋 I am a Senior Research Engineer at [Simula Research Laboratory](https://www.simula.no). 
+### About me 
 
+- I am the founder and lead of [Science Live](http://sciencelive4all.org) and [VITENHUB AS](http://vitenhub.no/)
 - 🔭 I'm an active member of the [Pangeo](https://pangeo.io) community that aims at promoting open, reproducible, and scalable science.
 
 - 💬 I am leading the [Galaxy Climate Science Workbench](https://climate.usegalaxy.eu/) and the [Nordic Earth System Modelling Hub](https://github.com/NordicESMhub/).
